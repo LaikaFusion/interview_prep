@@ -1,0 +1,1 @@
+// Put down example of an O(1) notation
