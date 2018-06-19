@@ -1,4 +1,4 @@
-#### All code challenges come here. 
+## All code challenges come here. 
 
 I made a small post I follow when I practice my coding challenges. It's been helping so far but feel free to work with your own techniques. Coming up with methods of your own makes things more interesting.
 
