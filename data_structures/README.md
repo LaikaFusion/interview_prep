@@ -1,4 +1,4 @@
-## List of data structures to be on the lookout for.
+## List of data structures to study.
 
 **Instructions** - You can organize this however you like. I recommend making a separate file for each data structure. Each file should have notes on your data structure, and each file should a `.js` file for implementing the data structure and Big O notation. 
 
