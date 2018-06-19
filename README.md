@@ -6,8 +6,8 @@ Repo to store all code challenges and notes on common data structures/algorithms
 
 **List of contents**
 
-> [Reference Textbooks](./textbooks/README.md)
-> [Data Structures](./data_structures/README.md)
-> [Algorithms](./algorithms/README.md)
-> [Update Code Challenges](./code_challenges/README.md)
-> [Update Career Tools](./career_prep/README.md)
+1. [Reference Textbooks](./textbooks/README.md)
+2. [Data Structures](./data_structures/README.md)
+3. [Algorithms](./algorithms/README.md)
+4. [Update Code Challenges](./code_challenges/README.md)
+5. [Update Career Tools](./career_prep/README.md)
