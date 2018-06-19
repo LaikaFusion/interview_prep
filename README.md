@@ -12,4 +12,6 @@ Repo to store all code challenges and notes on common data structures/algorithms
 4. [Update Code Challenges](./code_challenges/README.md)
 5. [Update Career Tools](./career_prep/README.md)
 
-*Note* - This will send you straight to README's only. Go back one directory to see the files you have to work with. Make a pull request once you get the repo. 
+*Note* - The links will send you straight to README's only. Go back one directory to see the files you have to work with. 
+
+> Make a pull request once you get the repo. As we update our repo, we all can comment on each other's repos. Comments can help us with giving suggestions to other classmates, and getting some motivation to keep pushing. Good luck everyone.
