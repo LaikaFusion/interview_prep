@@ -10,7 +10,7 @@ You can insert your challenges here.
 
 // Solution should have a comment for each method.
 
-// Notes to yourself. How would you explain the code
+// Notes to yourself. How would you explain the code?
 
 // Save as a Javascript file.
 
