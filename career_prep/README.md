@@ -5,7 +5,7 @@ You should have:
 1. Writing your resume in Markdown `.md` or just adding the `.pdf` or any other file here. It does not need a folder but feel free to add one.
 
 
-2. Info sheets 
+2. Info sheets.
 
 > Make up to 20 info files for dream companies. You can add more.
 
